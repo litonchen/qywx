@@ -26,6 +26,7 @@
 然后按照以下流程。
 
 
+
  **1. 创建企业**
 ![enter image description here](https://raw.githubusercontent.com/litonchen/wx_bot/main/png/1.newcorp.png)
 
