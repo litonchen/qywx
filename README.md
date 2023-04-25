@@ -13,6 +13,9 @@
 优点：有企业微信账号就能建企业微信通知，一对一的通知
 缺点：需要取得corpid、AgentID、secret。代码逻辑比较复制
 
+![enter image description here](https://raw.githubusercontent.com/litonchen/wx_bot/main/png/bot_demo.png)
+
+
 这篇代码是介绍**企业微信通知（一对一）**。企业微信群机器人（一对多）请参考[这一篇](https://github.com/litonchen/wx_bot)
 
 
