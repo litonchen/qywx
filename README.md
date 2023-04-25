@@ -24,6 +24,8 @@
 
 
  **1. 创建企业**
+ 
+ 
 首先登入注册一个企业微信，登入[企业微信网页](https://work.weixin.qq.com/)：https://work.weixin.qq.com/
 然后按照以下流程。
 ![enter image description here](https://raw.githubusercontent.com/litonchen/wx_bot/main/png/1.newcorp.png)
