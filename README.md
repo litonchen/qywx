@@ -12,6 +12,9 @@
 > **企业微信通知（一对一）：**
 优点：有企业微信账号就能建企业微信通知，一对一的通知
 缺点：需要取得corpid、AgentID、secret。代码逻辑比较复制
+
+
+
 ![enter image description here](https://raw.githubusercontent.com/litonchen/wx_bot/main/png/bot_demo.png)
 
 
