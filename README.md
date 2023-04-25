@@ -33,8 +33,11 @@
  **2. 点击应用管理**
 ![点击应用管理](https://raw.githubusercontent.com/litonchen/wx_bot/main/png/2.application.png?token=GHSAT0AAAAAACAP34VHG6LZBK5DZG5DY2OUZCHP3JQ)
 
+
 **3.点击创建应用**
 ![创建应用](https://raw.githubusercontent.com/litonchen/wx_bot/main/3.create.png)
+
+
 **4.命名应用**
 ![enter image description here](https://raw.githubusercontent.com/litonchen/wx_bot/main/png/4.name.png)
 
