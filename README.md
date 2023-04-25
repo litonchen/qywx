@@ -14,14 +14,16 @@
 
 这篇代码是介绍**企业微信对话机器人**。企业微信群机器人请参考[这一篇](https://github.com/litonchen/wx_bot)
 
-以下分别介绍：
-**` `群机器人 对话机器人**
-对于新同学来说，**建议先从群机器人入手**。只需要webhook就能建立一个机器人。
 
  - [ ] **- 对话机器人**
 
 对话机器人是一个微信企业号的应用，可以当成是一个已经加入对方企业微信的好友，因此能直接发送信息。
 对话机器人共需要**企业ID、AgentID、Secret**三组入参
+然后更新connect_config.py里面三个入参
+agentid=1000002  #更新
+secret='Y'  #更新
+corpid='ww7'  #更新
+
 
 首先登入注册一个企业微信，登入[企业微信网页](https://work.weixin.qq.com/)：https://work.weixin.qq.com/
 然后按照以下流程。
